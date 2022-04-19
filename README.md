@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashuifwebDes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently working as react js frontend Developer
 - 📫 How to reach me kashifnymph@gmail.com
 
 <!---
